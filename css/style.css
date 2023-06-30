@@ -1,0 +1,17 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+.icon li{
+	list-style:none;
+}
+.content h2{
+	color:orange;
+}
+.icon i{
+	color:orange;
+}
+	
+	
